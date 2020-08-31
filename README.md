@@ -19,5 +19,4 @@ Media keys implemented to suit Drevo Calibur layout, which are not reachabled fo
 
 [![Next, previous](https://i.gyazo.com/3ee9fb28667e49a17743aa844389bbb3.gif)](https://gyazo.com/3ee9fb28667e49a17743aa844389bbb3)
 
-Based on [mistic100](https://gist.github.com/mistic100) generalistic aproach:
-<script src="https://gist.github.com/mistic100/d3c0c1eb63fb7e4ee545.js"></script>
+Based on [mistic100](https://gist.github.com/mistic100) generalistic aproach. Check it here: ![here](https://gist.github.com/mistic100/d3c0c1eb63fb7e4ee545). 
